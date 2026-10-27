@@ -1,0 +1,144 @@
+{
+  "emma-f2yrji": {
+    "id": "emma-f2yrji",
+    "editToken": "25gtp36mhk7u94dxuov1x",
+    "createdAt": "2026-10-26T17:21:08.694Z",
+    "updatedAt": "2026-10-26T17:21:08.694Z",
+    "gift": {
+      "recipientName": "Emma",
+      "senderName": "Liam"
+    },
+    "expirationSetting": "1m",
+    "expiresAt": "2026-11-26T17:21:08.694Z",
+    "status": "active"
+  },
+  "testdefaultm-qq4shs": {
+    "id": "testdefaultm-qq4shs",
+    "editToken": "h4ee4b5ol7fvirccag5x18",
+    "createdAt": "2026-10-27T16:14:38.750Z",
+    "updatedAt": "2026-10-27T16:14:38.819Z",
+    "expiresAt": "2027-01-27T16:14:38.818Z",
+    "expirationSetting": "3m",
+    "customExpiresAt": null,
+    "status": "active",
+    "gift": {
+      "recipientName": "TestDefaultMonth",
+      "senderName": "Tester"
+    }
+  },
+  "test7days-xut9nl": {
+    "id": "test7days-xut9nl",
+    "editToken": "b56q3mxmm6n3gyf6krable",
+    "createdAt": "2026-10-27T16:14:38.764Z",
+    "updatedAt": "2026-10-27T16:14:38.764Z",
+    "expiresAt": "2026-11-03T16:14:38.763Z",
+    "expirationSetting": "7d",
+    "customExpiresAt": null,
+    "status": "active",
+    "gift": {
+      "recipientName": "Test7Days",
+      "senderName": "Tester"
+    }
+  },
+  "testcustom-pqemxi": {
+    "id": "testcustom-pqemxi",
+    "editToken": "7w1gwoplrfm5jzx2otygef",
+    "createdAt": "2026-10-27T16:14:38.772Z",
+    "updatedAt": "2026-10-27T16:14:38.772Z",
+    "expiresAt": "2026-11-06T16:14:38.767Z",
+    "expirationSetting": "custom",
+    "customExpiresAt": "2026-11-06T16:14:38.767Z",
+    "status": "active",
+    "gift": {
+      "recipientName": "TestCustom",
+      "senderName": "Tester"
+    }
+  },
+  "secretlover-tbwnt7": {
+    "id": "secretlover-tbwnt7",
+    "editToken": "8cr16byaqajqfm52ci18h",
+    "createdAt": "2026-10-27T16:14:38.796Z",
+    "updatedAt": "2026-10-27T16:14:38.803Z",
+    "expiresAt": "2026-10-28T16:14:38.796Z",
+    "expirationSetting": "1d",
+    "customExpiresAt": null,
+    "status": "active",
+    "gift": {
+      "recipientName": "SecretLover",
+      "senderName": "SecretAdmirer",
+      "loveLetter": {
+        "paragraphs": [
+          "My super secret private love confession"
+        ]
+      }
+    }
+  },
+  "testdefaultm-xot1qq": {
+    "id": "testdefaultm-xot1qq",
+    "editToken": "g97lwu69djbyos2uz6lk4e",
+    "createdAt": "2026-10-27T16:15:12.559Z",
+    "updatedAt": "2026-10-27T16:15:12.559Z",
+    "expiresAt": "2026-11-27T16:15:12.558Z",
+    "expirationSetting": "1m",
+    "customExpiresAt": null,
+    "status": "active",
+    "gift": {
+      "recipientName": "TestDefaultMonth",
+      "senderName": "Tester"
+    }
+  },
+  "test7days-in6fhc": {
+    "id": "test7days-in6fhc",
+    "editToken": "i6gffe8siyzoh65f3bbt",
+    "createdAt": "2026-10-27T16:15:12.568Z",
+    "updatedAt": "2026-10-27T16:15:12.568Z",
+    "expiresAt": "2026-11-03T16:15:12.568Z",
+    "expirationSetting": "7d",
+    "customExpiresAt": null,
+    "status": "active",
+    "gift": {
+      "recipientName": "Test7Days",
+      "senderName": "Tester"
+    }
+  },
+  "testcustom-7xhhr8": {
+    "id": "testcustom-7xhhr8",
+    "editToken": "x23fms39zqc7nwd9o10ca8",
+    "createdAt": "2026-10-27T16:15:12.574Z",
+    "updatedAt": "2026-10-27T16:15:12.574Z",
+    "expiresAt": "2026-11-06T16:15:12.570Z",
+    "expirationSetting": "custom",
+    "customExpiresAt": "2026-11-06T16:15:12.570Z",
+    "status": "active",
+    "gift": {
+      "recipientName": "TestCustom",
+      "senderName": "Tester"
+    }
+  },
+  "juliet-jm5nq4": {
+    "id": "juliet-jm5nq4",
+    "editToken": "3a0hn617jvi96ijannhdpj",
+    "createdAt": "2026-10-27T16:15:12.593Z",
+    "updatedAt": "2026-10-27T16:15:12.638Z",
+    "expiresAt": "2026-11-27T16:15:12.638Z",
+    "expirationSetting": "1m",
+    "customExpiresAt": null,
+    "status": "active",
+    "gift": {
+      "recipientName": "Juliet",
+      "senderName": "Romeo",
+      "loveLetter": {
+        "paragraphs": [
+          "My private confession that should never leak after expiration."
+        ]
+      },
+      "photos": [
+        {
+          "id": "p1",
+          "url": "/uploads/private_love_photo_1793117712589_6lwax.png",
+          "caption": "Secret kiss"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Birthday Scrapbook Surprise",
+  "description": "An interactive, pastel pink digital scrapbook filled with photos, memories, love letters, and a birthday surprise for your special someone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
